@@ -178,7 +178,7 @@ jupyter notebook iris_classification.ipynb
 
 > Click the badge below to open directly in Google Colab:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MOHAMMED ABUZAR/CodeAlpha_IrisFlowerClassification/blob/main/iris_classification.ipynb)
+[![Open in Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MOHAMMED ABUZAR/CodeAlpha_IrisFlowerClassification/blob/main/iris_classification.ipynb)](https://colab.research.google.com/drive/1M1aRziWcnDKO8JpaY9hkEQpzDKyqvzFo#scrollTo=decision-boundary)
 
 ---
 
@@ -216,8 +216,8 @@ pip install -r requirements.txt
 
 | Platform | Link |
 |----------|------|
-| 💼 LinkedIn | [Your LinkedIn Profile](https://linkedin.com/in/MOHAMMED ABUZAR) |
-| 🐙 GitHub | [Your GitHub Profile](https://github.com/MOHAMMED ABUZAR) |
+| 💼 LinkedIn | (https://www.linkedin.com/in/mohammed-abuzar-9061a1375/)) |
+| 🐙 GitHub | (https://github.com/MOHAMMED ABUZAR](https://github.com/MOHAMMED-ABUZAR317)) |
 | 🏢 Internship | [CodeAlpha](https://www.codealpha.tech) |
 
 </div>
