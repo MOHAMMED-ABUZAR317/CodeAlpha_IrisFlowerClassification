@@ -217,7 +217,7 @@ pip install -r requirements.txt
 | Platform | Link |
 |----------|------|
 | 💼 LinkedIn | (https://www.linkedin.com/in/mohammed-abuzar-9061a1375/)) |
-| 🐙 GitHub | (https://github.com/MOHAMMED ABUZAR](https://github.com/MOHAMMED-ABUZAR317)) |
+| 🐙 GitHub | (https://github.com/MOHAMMED-ABUZAR317)) |
 | 🏢 Internship | [CodeAlpha](https://www.codealpha.tech) |
 
 </div>
