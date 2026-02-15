@@ -164,7 +164,7 @@ CodeAlpha_IrisFlowerClassification/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/CodeAlpha_IrisFlowerClassification.git
+git clone https://github.com/MOHAMMED ABUZAR/CodeAlpha_IrisFlowerClassification.git
 cd CodeAlpha_IrisFlowerClassification
 
 # 2. Install dependencies
@@ -178,7 +178,7 @@ jupyter notebook iris_classification.ipynb
 
 > Click the badge below to open directly in Google Colab:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/CodeAlpha_IrisFlowerClassification/blob/main/iris_classification.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MOHAMMED ABUZAR/CodeAlpha_IrisFlowerClassification/blob/main/iris_classification.ipynb)
 
 ---
 
@@ -216,8 +216,8 @@ pip install -r requirements.txt
 
 | Platform | Link |
 |----------|------|
-| 💼 LinkedIn | [Your LinkedIn Profile](https://linkedin.com/in/YOUR_USERNAME) |
-| 🐙 GitHub | [Your GitHub Profile](https://github.com/YOUR_USERNAME) |
+| 💼 LinkedIn | [Your LinkedIn Profile](https://linkedin.com/in/MOHAMMED ABUZAR) |
+| 🐙 GitHub | [Your GitHub Profile](https://github.com/MOHAMMED ABUZAR) |
 | 🏢 Internship | [CodeAlpha](https://www.codealpha.tech) |
 
 </div>
